@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+#<stdio.h>
+#<conio.h>
+
+main()
+{
+fprintf("Hola Mundo...");
+getch();
+}
